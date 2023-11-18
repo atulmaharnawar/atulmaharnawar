@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am currently learning Full Stack Java.
+I am a Full Stack Software Engineer. Programming, swimming, bike riding are my hobblies. I like to learn new things.
 
+I have completed my BE in Computer Engineering from K. K. Wagh Institute of Engineering Education and Research, Nashik. Now I am looking to leverage everything that I have learnt in 
+my education and get some hands-on experience.
+
+I am currently learing Full Stack Java.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atul-maharnawar/) 
