@@ -2,7 +2,7 @@
 I am a Full Stack Software Engineer. Programming, swimming, bike riding are my hobblies. I like to learn new things.
 
 I have completed my BE in Computer Engineering from K. K. Wagh Institute of Engineering Education and Research, Nashik. Now I am looking to leverage everything that I have learnt in 
-my education and get some hands-on experience.
+my education and gain hands-on experience.
 
 I am currently learning Full Stack Java.
 
